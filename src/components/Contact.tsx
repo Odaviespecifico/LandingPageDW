@@ -62,7 +62,7 @@ const Contact = () => {
     {
       icon: <MapPin className="w-6 h-6" />,
       title: "Localização",
-      details: "Recipe - PE, Brasil",
+      details: "Recife - PE, Brasil",
       link: "#"
     },
     {

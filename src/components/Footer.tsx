@@ -4,11 +4,6 @@ import {
   Mail, 
   Phone, 
   MapPin,
-  Facebook,
-  Instagram,
-  Linkedin,
-  Twitter,
-  Github,
   ArrowUp
 } from 'lucide-react';
 
